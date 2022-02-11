@@ -1,0 +1,5 @@
+menu:
+- {name: 'About', url: '/about'}
+- {name: 'Group', url: '/group'}
+- {name: 'Openings', url: '/openings'}
+
