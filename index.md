@@ -21,7 +21,7 @@ We are looking for motivated PhD students and long-term RAs/interns with interes
 - [3D reconstruction of humans](/projects/3d_reconstruction_humans)
 - [3DHumans Dataset](http://cvit.iiit.ac.in/research/projects/cvit-projects/sharp-3dhumans-a-rich-3d-dataset-of-scanned-humans)
 - 3D reconstruction of hands
-- Terrain Generation
+- [Terrain Generation](/projects/terrain_generation)
 - 6-DOF pose estimation of rigid objects
 - [Brain Graph Analytics](http://cvit.iiit.ac.in/research/projects/cvit-projects/spectral-analysis-of-brain-graphs)
 - GraphSLAM in robotics
