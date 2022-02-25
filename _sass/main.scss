@@ -49,7 +49,17 @@ img.thumb {
   margin: 0 auto;
 }
 
+img.center {
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+}
 
 b.papertitle {
   color: $titleColor
+}
+
+h1.publication, h4.publication {
+  // color: black;
+  text-align: center
 }

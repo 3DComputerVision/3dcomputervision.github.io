@@ -12,7 +12,7 @@ featured:
     conference: 'ICVGIP'
     year: '2021'
     code: 'https://github.com/ishaanshah/Grammar-Trees'
-    project_page: 'https://cvit.iiit.ac.in/research/projects/cvit-projects/automated-tree-generation-using-grammar-particle-system'
+    project_page: '/publications/tree_generation_icvgip.html'
     thumb: '/assets/img/tree_generation.gif'
 
   - name: 'Coarse-to-fine 3D clothed human reconstruction using peeled semantic segmentation context'
