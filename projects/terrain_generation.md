@@ -20,13 +20,9 @@ Terrain Generation
 We aim to create an terrain authoring system which create realistic looking terrains based upon minimal user input such as strokes indication ridges and valleys.
 We use modern deep learning methods to try and capture the various natural process that shape the terrain and add more character to it.
 <div class="imgbox">
-    <img class="center-fit" src="/assets/img/dataset.gif" alt="Group Picture" style="width:70%;"/>
+    <img class="center-fit" src="/assets/img/terrain_authoring.jpg" style="width:70%;"/>
 </div>
 
-
-<div class="imgbox">
-    <img class="center-fit" src="/assets/img/human_reconstruction.gif" alt="Group Picture" style="width:70%;"/>
-</div>
 <br>
 
 ---
@@ -34,10 +30,6 @@ We use modern deep learning methods to try and capture the various natural proce
 The problem deals with increasing the resolution of depth elevation maps (DEM) acquired from satelite images. Low resolution DEMs of various geographical locations 
 are readily available, however the same can't be said for high resolution DEMs. We aim to solve this problem by developing techniques which generate HR-DEMs 
 from LR-DEMs.
-<div class="imgbox">
-    <img class="center-fit" src="/assets/img/dataset_static.jpeg" alt="Group Picture" style="width:70%;"/>
-</div>
-<br>
 
 ---
 ## Tree Generation
