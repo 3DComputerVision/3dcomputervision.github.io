@@ -20,7 +20,8 @@ featured:
     authors: 'Snehith Goud Routhu, Sai Sagar Jinka and Avinash Sharma'
     conference: 'ICVGIP'
     year: '2021'
-    thumb: '/assets/img/c2f.png'
+    thumb: '/assets/img/c2f/c2f.png'
+    project_page: '/publications/coarse_to_fine.html'
 
   - name: 'Attention based Occlusion Removal for Hybrid Telepresence Systems'
     url: 'https://arxiv.org/pdf/2112.01098.pdf'
@@ -35,6 +36,13 @@ featured:
     conference: 'arXiv'
     year: '2021'
     thumb: '/assets/img/sharp.png'
+
+  - name: 'GlocalNet: Class-aware Long-term Human Motion Synthesis'
+    url: 'https://openaccess.thecvf.com/content/WACV2021/papers/Battan_GlocalNet_Class-Aware_Long-Term_Human_Motion_Synthesis_WACV_2021_paper.pdf'
+    authors: 'Neeraj Battan, Yudhik Agrawal, Sai Soorya Rao, Aman Goel, Avinash Sharma'
+    conference: 'WACV'
+    year: '2021'
+    thumb: '/assets/img/glocalnet.png'
 
   - name: 'PeeledHuman: Robust Shape Representation for Textured 3D Human Body Reconstruction'
     url: 'https://arxiv.org/pdf/2002.06664.pdf'
