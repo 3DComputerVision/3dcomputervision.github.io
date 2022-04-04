@@ -31,6 +31,7 @@ maps. This also provides an additional output of 3D semantic segmentation of the
 
 ## Downloads
 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3490035.3490293)
+- [Supplementary Material](/assets/img/c2f/supp.pdf)
 - Code (Coming Soon)
 
 ## Contact
