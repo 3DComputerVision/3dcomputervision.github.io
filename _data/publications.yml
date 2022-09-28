@@ -1,4 +1,18 @@
 featured:
+  - name: 'Discretization-Agnostic Deep Self-Supervised 3D Surface Parameterization'
+    url: '/assets/pdfs/uv_param.pdf'
+    conference: 'ACM SIGGRAPH Asia Technical Communications'
+    year: '2022'
+    authors: 'Chandradeep Pokhariya*, Shanthika Naik*, Astitva Srivastava and Avinash Sharma'
+    thumb: '/assets/img/uv_param.png'
+
+  - name: 'Deep Self-supervised UV Parameterization for Template-free Textured 3D Digitization of Garments'
+    url: '/assets/pdfs/cloth_uv_param.pdf'
+    conference: 'Preprint'
+    year: '2022'
+    authors: 'Shanthika Naik*, Chandradeep Pokhariya*, Astitva Srivastava and Avinash Sharma'
+    thumb: '/assets/img/cloth_uv_param.png'
+
   - name: 'xCloth: Extracting Template-free Textured 3D Clothes from a Monocular Image'
     url: '/assets/pdfs/xCloth.pdf'
     conference: 'ACM Multimedia'
