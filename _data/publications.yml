@@ -6,6 +6,7 @@ featured:
     year: '2022'
     authors: 'Chandradeep Pokhariya*, Shanthika Naik*, Astitva Srivastava and Avinash Sharma'
     thumb: '/assets/img/uv_param.png'
+    presentation: 'https://youtu.be/Nc2cdQQ__-Y'
 
   - name: 'Deep Self-supervised UV Parameterization for Template-free Textured 3D Digitization of Garments'
     url: '/assets/pdfs/cloth_uv_param.pdf'
