@@ -1,6 +1,7 @@
 featured:
   - name: 'Discretization-Agnostic Deep Self-Supervised 3D Surface Parameterization'
     url: '/assets/pdfs/uv_param.pdf'
+    supp: '/assets/pdfs/uv_param_supp.pdf'
     conference: 'ACM SIGGRAPH Asia Technical Communications'
     year: '2022'
     authors: 'Chandradeep Pokhariya*, Shanthika Naik*, Astitva Srivastava and Avinash Sharma'
