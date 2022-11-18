@@ -1,4 +1,13 @@
 featured:
+  - name: 'Adaptive & Multi-Resolution Procedural Infinite Terrain Generation with Diffusion Models and Perlin Noise'
+    url: '/assets/pdfs/inf_terrain_generation.pdf'
+    conference: 'ICVGIP'
+    year: '2022'
+    authors: 'Aryamaan Jain, Avinash Sharma and K S Rajan'
+    thumb: '/assets/img/terrain.gif'
+    presentation: 'https://youtu.be/6Uz6m4piXYI'
+    project_page: '/publications/inf_terrain_generation.html'
+
   - name: 'Discretization-Agnostic Deep Self-Supervised 3D Surface Parameterization'
     url: '/assets/pdfs/uv_param.pdf'
     supp: '/assets/pdfs/uv_param_supp.pdf'
