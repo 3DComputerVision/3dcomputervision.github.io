@@ -1,4 +1,11 @@
 featured:
+  - name: 'REF-SHARP: REFined face and geometry reconstruction of people in loose clothing'
+    url: '/assets/pdfs/ref_sharp.pdf'
+    conference: 'ICVGIP'
+    year: '2022'
+    authors: 'Snehith Goud Routhu, Sai Sagar Jinka and Avinash Sharma'
+    thumb: '/assets/img/ref_sharp.png'
+
   - name: 'Adaptive & Multi-Resolution Procedural Infinite Terrain Generation with Diffusion Models and Perlin Noise'
     url: '/assets/pdfs/inf_terrain_generation.pdf'
     conference: 'ICVGIP'
