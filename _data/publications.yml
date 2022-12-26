@@ -25,6 +25,13 @@ featured:
     presentation: 'https://youtu.be/Nc2cdQQ__-Y'
     project_page: 'https://coreqode.github.io/surface_parameterization/'
 
+  - name: 'Supervision by Landmarks: An Enhanced Facial De-occlusion Network for VR-based Applications'
+    url: '/assets/pdfs/deocclusion.pdf'
+    conference: 'ECCV Workshop'
+    year: '2022'
+    authors: 'Surabhi Gupta, Sai Sagar Jinka, Avinash Sharma and Anoop Namboodiri'
+    thumb: '/assets/img/deocclusion.png'
+
   - name: 'Deep Self-supervised UV Parameterization for Template-free Textured 3D Digitization of Garments'
     url: '/assets/pdfs/cloth_uv_param.pdf'
     conference: 'Preprint'
@@ -64,10 +71,10 @@ featured:
     project_page: '/publications/coarse_to_fine.html'
 
   - name: 'Attention based Occlusion Removal for Hybrid Telepresence Systems'
-    url: 'https://arxiv.org/pdf/2112.01098.pdf'
+    url: '/assets/pdfs/occlusion_removal.pdf'
     authors: 'Surabhi Gupta, Ashwath Shetty, Avinash Sharma'
-    conference: 'arXiv'
-    year: '2021'
+    conference: 'CRV'
+    year: '2022'
     thumb: '/assets/img/occlusion_removal.png'
 
   - name: 'SHARP: Reconstruction of People in Loose Clothing'
