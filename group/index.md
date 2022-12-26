@@ -19,7 +19,7 @@ title: "Group"
 - [Surabhi Gupta](https://www.linkedin.com/in/surabhi-gupta-02/)
 - Snehit Routhu
 - Abhinaba Bala
-- [Shanthika Nair](https://shanthika.github.io/)
+- [Shanthika Naik](https://shanthika.github.io/)
 - [Chandradeep Pokhariya](http://coreqode.github.io)
 - [Prayushi Mathur](https://www.linkedin.com/in/prayushi-mathur-59a470189/)
 

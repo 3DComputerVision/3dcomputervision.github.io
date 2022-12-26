@@ -1,4 +1,11 @@
 featured:
+  - name: 'SHARP: Shape-Aware Reconstruction of People in Loose Clothing'
+    url: 'https://arxiv.org/pdf/2205.11948.pdf'
+    authors: 'Sai Sagar Jinka, Astitva Srivastava, Chandradeep Pokhariya, Avinash Sharma and P.J. Narayanan'
+    conference: 'IJCV'
+    year: '2022'
+    thumb: '/assets/img/sharp.png'
+
   - name: 'REF-SHARP: REFined face and geometry reconstruction of people in loose clothing'
     url: '/assets/pdfs/ref_sharp.pdf'
     conference: 'ICVGIP'
@@ -16,8 +23,8 @@ featured:
     project_page: '/publications/inf_terrain_generation.html'
 
   - name: 'Discretization-Agnostic Deep Self-Supervised 3D Surface Parameterization'
-    url: '/assets/pdfs/uv_param.pdf'
-    supp: '/assets/pdfs/uv_param_supp.pdf'
+    url: 'https://coreqode.github.io/assets/pdf/papers/diff_param_main.pdf'
+    supp: 'https://coreqode.github.io/assets/pdf/papers/diff_param_suppl.pdf'
     conference: 'ACM SIGGRAPH Asia Technical Communications'
     year: '2022'
     authors: 'Chandradeep Pokhariya*, Shanthika Naik*, Astitva Srivastava and Avinash Sharma'
@@ -76,13 +83,6 @@ featured:
     conference: 'CRV'
     year: '2022'
     thumb: '/assets/img/occlusion_removal.png'
-
-  - name: 'SHARP: Reconstruction of People in Loose Clothing'
-    url: 'https://arxiv.org/pdf/2106.04778.pdf'
-    authors: 'Sai Sagar Jinka, Rohan Chacko, Astitva Srivastava, Avinash Sharma, P.J. Narayanan'
-    conference: 'arXiv'
-    year: '2021'
-    thumb: '/assets/img/sharp.png'
 
   - name: 'A-GHN: Attention-based Fusion of Multiple GraphHeat Networks for Structural to Functional Brain Mapping'
     url: 'https://www.biorxiv.org/content/biorxiv/early/2021/08/13/2021.08.12.456134.full.pdf'
