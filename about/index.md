@@ -10,7 +10,7 @@ I am Dr Avinash Sharma, an assistant professor at [International Institute of In
 Here at CVIT, I lead a small [group](/group) of students whose research is inclined towards 3D computer vision.
 <center>
 
-<a href="https://drive.google.com/file/d/1bQmijaNyftZCsxA43Acbk289d_qcrNvJ/view"> CV </a> | <a href="https://scholar.google.co.in/citations?user=4ladtC0AAAAJ&hl=en"> Google Scholar </a> | <a href="mailto:asharma.iiit.ac.in">asharma.iiit.ac.in </a>
+<a href="/assets/pdfs/CV.pdf">CV </a> | <a href="https://scholar.google.co.in/citations?user=4ladtC0AAAAJ&hl=en"> Google Scholar </a> | <a href="mailto:asharma@iiit.ac.in">asharma@iiit.ac.in </a>
 
 </center>
 
