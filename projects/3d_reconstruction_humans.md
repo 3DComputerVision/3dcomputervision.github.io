@@ -27,7 +27,7 @@ Recent advancements in deep learning have enabled 3D human body reconstruction f
 ---
 
 ## 3DHumans
-We have collected [3DHumans](http://cvit.iiit.ac.in/research/projects/cvit-projects/sharp-3dhumans-a-rich-3d-dataset-of-scanned-humans), a dataset of around 250 scans containing people in diverse body shapes in various garments styles and sizes. We cover a wide variety of clothing styles ranging from loose robed clothing like saree (a typical South-Asian dress) to relatively tight-fitting shirt and trousers. The dataset consists of around 150 male and 50 unique female subjects. Total male scans are about 180 and female scans are around 70. In terms of regional diversity, for the first time, we capture body shape, appearance and clothing styles for the South- Asian population. We will release this data in the public domain for academic purpose.
+We have collected [3DHumans](https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans), a dataset of around 250 scans containing people in diverse body shapes in various garments styles and sizes. We cover a wide variety of clothing styles ranging from loose robed clothing like saree (a typical South-Asian dress) to relatively tight-fitting shirt and trousers. The dataset consists of around 150 male and 50 unique female subjects. Total male scans are about 180 and female scans are around 70. In terms of regional diversity, for the first time, we capture body shape, appearance and clothing styles for the South- Asian population. We will release this data in the public domain for academic purpose.
 
 <div class="imgbox">
     <img class="center-fit" src="/assets/img/dataset.gif" alt="Group Picture" style="width:70%;"/>

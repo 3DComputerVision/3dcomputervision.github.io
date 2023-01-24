@@ -5,6 +5,7 @@ featured:
     conference: 'IJCV'
     year: '2022'
     thumb: '/assets/img/sharp.png'
+    dataset: 'https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans'
 
   - name: 'REF-SHARP: REFined face and geometry reconstruction of people in loose clothing'
     url: '/assets/pdfs/ref_sharp.pdf'
