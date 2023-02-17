@@ -1,3 +1,7 @@
 - name: '3DHumans: High-Fidelity 3D Scans of People in Diverse Clothing Styles'
   url: 'https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans'
   thumb: 'https://cvit.iiit.ac.in/images/Projects/sharp_3d_human/00.png'
+
+- name: '4DHumans: Temporally Consistent Dynamic Scans of Humans in Motion'
+  url: '/publications/4d_humans.html'
+  thumb: '/assets/img/4dhumans_teaser_cropped.jpg'

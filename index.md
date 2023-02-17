@@ -15,7 +15,7 @@ We are looking for motivated PhD students and long-term RAs/interns with interes
 
 
 <br>
-### Research 
+### Research Interests
 ---
 - [3D reconstruction of humans](/projects/3d_reconstruction_humans)
 - 3D reconstruction of hands
