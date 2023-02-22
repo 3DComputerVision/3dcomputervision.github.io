@@ -9,7 +9,7 @@ authors: "Kunwar Maheep Singh, Astitva Srivastava and Avinash Sharma"
 <br/>
 
 ## About
-4DHumans dataset aims to capture multiple temporally conmultisistent sequences of humans performing different actions. The sequences are expected to be roughly 1 minute long. The data is captured by using a multi-view setup involving multiple calibrated Microsoft Kinect cameras. Further, the sequences are post processed using the pipeline proposed in [Fusion4D](https://dl.acm.org/doi/10.1145/2897824.2925969). We plan to make the dataset publicly available soon.
+4DHumans dataset aims to capture multiple temporally consistent sequences of humans performing different actions. The sequences are expected to be roughly 1 minute long. The data is captured by using a multi-view setup involving multiple calibrated Microsoft Kinect cameras. Further, the sequences are post processed using the pipeline proposed in [Fusion4D](https://dl.acm.org/doi/10.1145/2897824.2925969). We plan to make the dataset publicly available soon.
 
 ## Dataset
 Coming Soon!
