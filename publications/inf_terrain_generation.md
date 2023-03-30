@@ -13,7 +13,7 @@ This paper proposes a novel adaptive multi-resolution framework for generating t
 
 ## Downloads
 - [Paper](/assets/pdfs/inf_terrain_generation.pdf)
-- Code (Coming Soon!)
+- [Code](https://github.com/aryamaanjain/trcan)
 
 ## Contact
 - Aryamaan Jain: [aryamaan.jain@research.iiit.ac.in](mailto:aryamaan.jain@research.iiit.ac.in)

@@ -23,6 +23,7 @@ featured:
     thumb: '/assets/img/terrain.gif'
     presentation: 'https://youtu.be/6Uz6m4piXYI'
     project_page: '/publications/inf_terrain_generation.html'
+    code: 'https://github.com/aryamaanjain/trcan'
 
   - name: 'Discretization-Agnostic Deep Self-Supervised 3D Surface Parameterization'
     url: 'https://coreqode.github.io/assets/pdf/papers/diff_param_main.pdf'
