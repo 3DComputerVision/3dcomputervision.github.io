@@ -68,9 +68,10 @@ featured:
     authors: 'Aryamaan Jain, Jyoti Sunkara, Ishaan Shah, Avinash Sharma and K S Rajan'
     conference: 'ICVGIP'
     year: '2021'
-    code: 'https://github.com/ishaanshah/Grammar-Trees'
+    code: 'https://github.com/aryamaanjain/tree_generation_grammar'
     project_page: '/publications/tree_generation_icvgip.html'
     thumb: '/assets/img/tree_generation.gif'
+    presentation: 'https://youtu.be/wIaY3GgnyX0'
 
   - name: 'Coarse-to-fine 3D clothed human reconstruction using peeled semantic segmentation context'
     url: 'https://dl.acm.org/doi/pdf/10.1145/3490035.3490293'

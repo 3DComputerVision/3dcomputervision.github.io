@@ -10,9 +10,8 @@ Trees are an integral part of many outdoor scenes and are rendered in a wide var
 
 ## Downloads
 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3490035.3490285)
-- [Blender Plugin](https://cvit.iiit.ac.in/images/Projects/automated_tree_generation/Grammar-Trees-main.zip)
-- [Tree Generation Code](https://cvit.iiit.ac.in/images/Projects/automated_tree_generation/code.zip)
-- [Grammar Files](https://cvit.iiit.ac.in/images/Projects/automated_tree_generation/grammar.zip)
+- [Video](https://youtu.be/wIaY3GgnyX0)
+- [Code](https://github.com/aryamaanjain/tree_generation_grammar)
 
 ## Contact
 -  [Aryamaan Jain](aryamaan.jain@research.iiit.ac.in)
