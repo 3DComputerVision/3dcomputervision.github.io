@@ -1,4 +1,11 @@
 featured:
+  - name: 'ConVol-E: Continuous Volumetric Embeddings for Human-Centric Dense Correspondence Estimation'
+    url: 'https://openaccess.thecvf.com/content/CVPR2023W/IMW/papers/Tiwari_ConVol-E_Continuous_Volumetric_Embeddings_for_Human-Centric_Dense_Correspondence_Estimation_CVPRW_2023_paper.pdf'
+    authors: 'Amogh Tiwari, Pranav Manu, Nakul Rathore, Astitva Srivastava and Avinash Sharma'
+    conference: 'CVPR Workshop'
+    year: '2023'
+    thumb: '/assets/img/convole.png'
+
   - name: 'SHARP: Shape-Aware Reconstruction of People in Loose Clothing'
     url: 'https://arxiv.org/pdf/2205.11948.pdf'
     authors: 'Sai Sagar Jinka, Astitva Srivastava, Chandradeep Pokhariya, Avinash Sharma and P.J. Narayanan'
