@@ -8,34 +8,29 @@ title: "Group"
 </div>
 
 <br>
-###### Postdoctoral Fellow
-- Dr. Dipti Patel, PhD IIT Gandhinagar Jan 2020
-
 ###### PhD Students
-- Sai Sagar Jinka
+- Astitva Srivastava
 
 ###### Graduate Students
-- Astitva Srivastava
-- [Surabhi Gupta](https://www.linkedin.com/in/surabhi-gupta-02/)
-- Snehit Routhu
-- Abhinaba Bala
 - [Shanthika Naik](https://shanthika.github.io/)
 - [Chandradeep Pokhariya](http://coreqode.github.io)
-- [Prayushi Mathur](https://www.linkedin.com/in/prayushi-mathur-59a470189/)
-
-###### Honors Project Students
 - [Amogh Tiwari](https://www.linkedin.com/in/amogh-tiwari-b370a856/)
 - [Aryamaan Jain](https://github.com/aryamaanjain)
-- Jyoti Sunkara
-- [Ainesh Sannidhi](https://github.com/inesane)
-- [Ishaan Shah](https://www.github.com/ishaanshah)
+
+###### Honors Project Students
+- [Ishaan Shah](https://ishaanshah.github.io)
 - [Kunwar Singh](https://github.com/simba611)
-- [Harshwardhan Prasad](https://www.linkedin.com/in/harshwardhan-prasad-a574561b2/)
 
 ###### Research Assistants
-- Richa Mishra
+- Nakul Rathore
 
 ###### Alumni
+- Dr. Sai Sagar Jinka (PhD)
+- Dr. Dipti Patel (Postdoc)
+- [Surabhi Gupta](https://www.linkedin.com/in/surabhi-gupta-02/)
+- Snehit Routhu
+- Jyoti Sunkara
+- Richa Mishra
 - Ashwath Shetty
 - Arvind Subramaniam
 - Govinda Surampudi (Pursuing PhD at University of Maryland)
