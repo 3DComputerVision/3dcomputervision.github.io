@@ -1,4 +1,13 @@
 featured:
+  - name: 'CLIP-Head: Text-Guided Generation of Textured Neural Parametric 3D Head Models'
+    url: 'https://raipranav384.github.io/clip_head/static/videos/Clip_Head.pdf'
+    authors: 'Pranav Manu*, Astitva Srivastava* and Avinash Sharma'
+    conference: 'ACM SIGGRAPH Asia Technical Communications'
+    year: '2023'
+    thumb: '/assets/img/cliphead.svg'
+    project_page: 'https://raipranav384.github.io/clip_head/'
+    code: 'https://github.com/raipranav384/CLIP-Head'
+
   - name: 'ConVol-E: Continuous Volumetric Embeddings for Human-Centric Dense Correspondence Estimation'
     url: 'https://openaccess.thecvf.com/content/CVPR2023W/IMW/papers/Tiwari_ConVol-E_Continuous_Volumetric_Embeddings_for_Human-Centric_Dense_Correspondence_Estimation_CVPRW_2023_paper.pdf'
     authors: 'Amogh Tiwari, Pranav Manu, Nakul Rathore, Astitva Srivastava and Avinash Sharma'
