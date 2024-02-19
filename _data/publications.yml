@@ -1,4 +1,19 @@
 featured:
+  - name: 'Learning Based Infinite Terrain Generation with Level of Detailing'
+    url: '/assets/pdfs/terrain_3dv_camera_ready.pdf'
+    authors: 'Aryamaan Jain, Avinash Sharma and KS Rajan'
+    conference: 'International Conference on 3D Vision (3DV)'
+    year: '2024'
+    thumb: '/assets/img/terrain_3dv_teaser_render.jpg'
+    code: 'https://github.com/aryamaanjain/mr_terrain'
+
+  - name: 'Enhanced Spatio-Temporal Context for Temporally Consistent Robust 3D Human Motion Recovery from Monocular Videos'
+    url: '/assets/pdfs/2023_Enhanced_Arxiv.pdf'
+    authors: 'Sushovan Chanda, Amogh Tiwari, Lokender Tiwari, Brojeshwar Bhowmick, Avinash Sharma and Hrishav Barua'
+    conference: 'Arxiv'
+    year: '2023'
+    thumb: '/assets/img/2023_Enhanced_Arxiv_pic.png'
+    
   - name: 'CLIP-Head: Text-Guided Generation of Textured Neural Parametric 3D Head Models'
     url: 'https://raipranav384.github.io/clip_head/static/videos/Clip_Head.pdf'
     authors: 'Pranav Manu*, Astitva Srivastava* and Avinash Sharma'
