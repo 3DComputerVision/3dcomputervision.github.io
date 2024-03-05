@@ -4,7 +4,7 @@ featured:
     authors: 'Chandradeep Pokhariya, Ishaan N Shah, Angela Xing, Zekun Li, Kefan Chen, Avinash Sharma and Srinath Sridhar'
     conference: 'Conference on Computer Vision and Pattern Recognition (CVPR)'
     year: '2024'
-    thumb: '/assets/img/manus_graphics.jpg'
+    thumb: 'assets/img/manus_graphics.png'
     project_page: 'https://ivl.cs.brown.edu/research/manus.html'
 
   - name: 'Learning Based Infinite Terrain Generation with Level of Detailing'
