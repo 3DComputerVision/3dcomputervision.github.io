@@ -11,7 +11,7 @@ featured:
     url: 'https://arxiv.org/abs/2401.17399'
     authors: 'Kaustab Pal, Aditya Sharma, Avinash Sharma, K. Madhava Krishna'
     conference: 'IEEE International Conference on Robotics and Automation (ICRA)'
-    collaboration: 'In collaboration with RRC, IIITH'
+    collaboration: '(In collaboration with RRC, IIITH)'
     year: '2024'
     thumb: 'assets/img/ATPPNet.png'
     code: 'https://github.com/kaustabpal/ATPPNet'
