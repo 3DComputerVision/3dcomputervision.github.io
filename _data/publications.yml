@@ -3,9 +3,18 @@ featured:
     url: '/assets/pdfs/manus_cvpr_2024.pdf'
     authors: 'Chandradeep Pokhariya, Ishaan N Shah, Angela Xing, Zekun Li, Kefan Chen, Avinash Sharma and Srinath Sridhar'
     conference: 'Conference on Computer Vision and Pattern Recognition (CVPR)'
+    collaboration: 'In collaboration with RRC IIITH, India'
     year: '2024'
     thumb: 'assets/img/manus_graphics.png'
     project_page: 'https://ivl.cs.brown.edu/research/manus.html'
+
+  - name: 'ATPPNet: Attention based Temporal Point cloud Prediction Network'
+    url: 'https://arxiv.org/abs/2401.17399'
+    authors: 'Kaustab Pal, Aditya Sharma, Avinash Sharma, K. Madhava Krishna'
+    conference: 'IEEE International Conference on Robotics and Automation (ICRA)'
+    year: '2024'
+    thumb: 'assets/img/ATPPNet.png'
+    code: 'https://github.com/kaustabpal/ATPPNet'
 
   - name: 'Learning Based Infinite Terrain Generation with Level of Detailing'
     url: '/assets/pdfs/terrain_3dv_camera_ready.pdf'
