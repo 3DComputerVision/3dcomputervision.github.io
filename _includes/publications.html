@@ -16,6 +16,9 @@
               <br>
               <i>{{ item.conference }} {{ item.year }} </i>
               <br>
+              {% if item.collaboration %}
+                {{ item.collaboration }}
+              {% endif %}
               {% if item.project_page %}
                 <a href="{{ item.project_page }}">[Project Page]</a>
               {% endif %}
