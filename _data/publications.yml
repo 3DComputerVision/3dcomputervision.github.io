@@ -1,6 +1,6 @@
 featured:
   - name: 'WordRobe: Text-Guided Generation of Textured 3D Garments'
-    url: '/assets/pdfs/wordrope.pdf'
+    url: '/assets/pdfs/Wordrope.pdf'
     authors: 'Astitva Srivastava,Pranav Manu,Amit Raj, Varun Jampani, Avinash Sharma'
     conference: 'European Conference on Computer Vision (ECCV)'
     year: '2024'
