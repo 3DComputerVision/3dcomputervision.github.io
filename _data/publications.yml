@@ -1,11 +1,12 @@
 featured:
   - name: 'WordRobe: Text-Guided Generation of Textured 3D Garments'
-      url: '/assets/pdfs/manus_cvpr_2024.pdf'
-      authors: 'Astitva Srivastava,Pranav Manu,Amit Raj, Varun Jampani, Avinash Sharma'
-      conference: 'European Conference on Computer Vision (ECCV)'
-      year: '2024'
-      thumb: 'assets/img/wordrope.png'
-      project_page: 'https://wordrobe24.github.io/WordRobe_Page/'
+    url: '/assets/pdfs/manus_cvpr_2024.pdf'
+    authors: 'Astitva Srivastava,Pranav Manu,Amit Raj, Varun Jampani, Avinash Sharma'
+    conference: 'European Conference on Computer Vision (ECCV)'
+    year: '2024'
+    thumb: 'assets/img/wordrope.png'
+    project_page: 'https://wordrobe24.github.io/WordRobe_Page/'
+    
   - name: 'MANUS: Markerless Hand-Object Grasp Capture using Articulated 3D Gaussians'
     url: '/assets/pdfs/manus_cvpr_2024.pdf'
     authors: 'Chandradeep Pokhariya, Ishaan N Shah, Angela Xing, Zekun Li, Kefan Chen, Avinash Sharma and Srinath Sridhar'
