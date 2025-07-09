@@ -1,4 +1,28 @@
 featured:
+  - name: 'NGD: Neural Gradient Based Deformation for Monocular Garment Reconstr'
+    url: '/assets/pdfs/ngd.pdf'
+    authors: 'Soham Dasgupta, Shanthika Naik, Preet Savalia , Sujay Kumar Ingle, Avinash Sharma'
+    conference: 'International Conference on Computer Vision (ICCV)'
+    year: '2025'
+    thumb: 'assets/img/ngd.png'
+    project_page: 'https://astonishingwolf.github.io/paper_pages/NGD/'
+
+  - name: 'LightHeadEd: Relightable & Editable Head Avatars from a Smartphone'
+    url: '/assets/pdfs/lightheaded.pdf'
+    authors: 'Pranav Manu, Astitva Srivastava, Amit Raj,  Varun Jampan,  P.J. Narayanan,  Avinash Sharma4,'
+    conference: 'arxiv'
+    year: '2025'
+    thumb: 'assets/img/lightheaded.png'
+    project_page: 'https://raipranav384.github.io/lightheaded-webpage/'
+
+  - name: 'Accurate and Real-time LiDAR Point Cloud Forecasting for Autonomous Driving'
+    url: '/assets/pdfs/lidar.pdf'
+    authors: 'Soham Dasgupta, Kshitij Aphale, Kaustab Pal, Avinash Sharma'
+    conference: 'Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)'
+    year: '2024'
+    thumb: 'assets/img/lidar.png'
+    code: 'https://github.com/lighterbird/Accurate-and-Real-Time-LiDAR-Point-Cloud-Forecasting-For-Autonomous-Driving'
+
   - name: 'WordRobe: Text-Guided Generation of Textured 3D Garments'
     url: '/assets/pdfs/Wordrope.pdf'
     authors: 'Astitva Srivastava,Pranav Manu,Amit Raj, Varun Jampani, Avinash Sharma'
