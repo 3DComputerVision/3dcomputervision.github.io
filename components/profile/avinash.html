@@ -14,29 +14,42 @@
     <link rel="stylesheet" href="../../assets/css/responsive.css">
     
     <style>
-        /* Force cursor styles */
-        *, *::before, *::after {
-            cursor: none !important;
+        /* Custom cursor only for desktop/non-touch devices */
+        @media (hover: hover) and (pointer: fine) {
+            *, *::before, *::after {
+                cursor: none !important;
+            }
+        
+            #custom-cursor {
+                position: fixed !important;
+                width: 20px !important;
+                height: 20px !important;
+                border-radius: 50% !important;
+                background-color: white !important;
+                pointer-events: none !important;
+                z-index: 999999 !important;
+                transition: width 0.2s ease, height 0.2s ease !important;
+                transform: translate(-50%, -50%) !important;
+                mix-blend-mode: difference !important;
+                display: block !important;
+                opacity: 1 !important;
+            }
+        
+            #custom-cursor.hover {
+                width: 40px !important;
+                height: 40px !important;
+            }
         }
-    
-        #custom-cursor {
-            position: fixed !important;
-            width: 20px !important;
-            height: 20px !important;
-            border-radius: 50% !important;
-            background-color: white !important;
-            pointer-events: none !important;
-            z-index: 999999 !important;
-            transition: width 0.2s ease, height 0.2s ease !important;
-            transform: translate(-50%, -50%) !important;
-            mix-blend-mode: difference !important;
-            display: block !important;
-            opacity: 1 !important;
-        }
-    
-        #custom-cursor.hover {
-            width: 40px !important;
-            height: 40px !important;
+
+        /* Hide custom cursor on mobile/touch devices */
+        @media (hover: none) or (pointer: coarse) {
+            #custom-cursor {
+                display: none !important;
+            }
+            
+            *, *::before, *::after {
+                cursor: auto !important;
+            }
         }
 
         .profile-container {
