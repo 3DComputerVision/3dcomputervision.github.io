@@ -6,20 +6,27 @@
         flex-direction: column;
         gap: 15px;
         padding: 15px 20px;
+        position: relative;
     }
 
     .nav-tabs {
+        display: flex; /* Ensure it's visible */
         flex-wrap: wrap;
         justify-content: center;
+        width: 100%;
     }
 
     .nav-tabs button {
         padding: 12px 15px;
         font-size: 14px;
+        flex: 0 1 auto; /* Allow buttons to size naturally */
     }
 
     .nav-right {
-        order: -1;
+        order: 1; /* Changed from -1 to keep it at the bottom */
+        width: 100%;
+        display: flex;
+        justify-content: center;
     }
 
     /* Home Grid */
