@@ -1,0 +1,80 @@
+/* Responsive Design - responsive.css */
+
+@media (max-width: 768px) {
+    /* Navigation */
+    .nav-container {
+        flex-direction: column;
+        gap: 15px;
+        padding: 15px 20px;
+    }
+
+    .nav-tabs {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .nav-tabs button {
+        padding: 12px 15px;
+        font-size: 14px;
+    }
+
+    .nav-right {
+        order: -1;
+    }
+
+    /* Home Grid */
+    .home-grid {
+        grid-template-columns: 1fr;
+    }
+
+    /* Hero Section */
+    .hero-section h2 {
+        font-size: 28px;
+    }
+
+    /* Publication Cards */
+    .publication-card {
+        padding: 20px;
+    }
+
+    .citation-count {
+        position: static;
+        margin-bottom: 15px;
+        width: 50px;
+        height: 50px;
+    }
+
+    .citation-number {
+        font-size: 16px;
+    }
+
+    .publication-actions {
+        flex-wrap: wrap;
+    }
+
+    .bubble {
+        display: none;
+    }
+
+    /* Team Grid */
+    .team-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .team-member {
+        width: 100%;
+        min-height: 280px;
+    }
+
+    /* Contact Form */
+    .contact-form {
+        grid-template-columns: 1fr;
+    }
+
+    /* Footer */
+    .footer-content {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
