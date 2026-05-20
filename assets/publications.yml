@@ -4,7 +4,7 @@ featured:
     authors: 'Navami Kairanda, Shanthika Naik, Marc Habermann, Avinash Sharma, Christian Theobalt, Vladislav Golyanik'
     conference: 'International Conference on Learning Representations (ICLR)'
     year: '2026'
-    thumb: 'assets/img/dinf_grid.png'
+    thumb: 'assets/img/grid-mpi.png'
     project_page: 'https://4dqv.mpi-inf.mpg.de/DInf-Grid/'
 
   - name: 'SymGS: Leveraging Local Symmetries for 3D Gaussian Splatting Compression'
