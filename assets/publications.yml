@@ -1,4 +1,28 @@
 featured:
+  - name: '∂∞-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids'
+    url: 'https://4dqv.mpi-inf.mpg.de/DInf-Grid/'
+    authors: 'Navami Kairanda, Shanthika Naik, Marc Habermann, Avinash Sharma, Christian Theobalt, Vladislav Golyanik'
+    conference: 'International Conference on Learning Representations (ICLR)'
+    year: '2026'
+    thumb: 'assets/img/dinf_grid.png'
+    project_page: 'https://4dqv.mpi-inf.mpg.de/DInf-Grid/'
+
+  - name: 'SymGS: Leveraging Local Symmetries for 3D Gaussian Splatting Compression'
+    url: 'https://arxiv.org/abs/2511.13264'
+    authors: 'Keshav Gupta, Akshat Sanghvi, Shreyas Reddy Palley, Astitva Srivastava, Charu Sharma, Avinash Sharma'
+    conference: 'Association for the Advancement of Artificial Intelligence (AAAI)'
+    year: '2026'
+    thumb: 'assets/img/symgs.png'
+    project_page: 'https://symgs.github.io/'
+
+  - name: 'Dress Anyone: A Method and Dataset for 3D Garment Retargeting'
+    url: '/assets/pdfs/vton.pdf'
+    authors: 'Shanthika Naik, Astitva Srivastava, Kunwar Singh, Varun Jampani, Amit Raj, Avinash Sharma'
+    conference: 'Computer Graphics Forum'
+    year: '2026'
+    thumb: 'assets/img/DMU.gif'
+    project_page: 'https://shanthika.github.io/projects/dressmeup/'
+
   - name: 'Camera3DMM: Leveraging Perspective Camera for Estimating Parametric 3D Head Models'
     url: '/assets/pdfs/camera3dmm.pdf'
     authors: 'Vishwesh Vhavle, Hiteshi Jain, Avinash Sharma'
