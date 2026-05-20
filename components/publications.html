@@ -1354,8 +1354,8 @@
 </div>
 
 <style>
-    /* Publication Cards */
-    .publication-card {
+    /* Publication Cards - scoped to publications tab only */
+    #publications .publication-card {
         display: flex;
         margin-bottom: 20px;
         background: var(--bg-card);
@@ -1365,12 +1365,12 @@
         transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
 
-    .publication-card:hover {
+    #publications .publication-card:hover {
         transform: translateY(-2px);
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     }
 
-    .publication-teaser {
+    #publications .publication-teaser {
         flex-shrink: 0;
         width: 280px;
         height: 160px;
@@ -1383,7 +1383,7 @@
         border-radius: 6px;
     }
 
-    .publication-teaser img {
+    #publications .publication-teaser img {
         max-width: 100%;
         max-height: 100%;
         width: auto;
@@ -1392,11 +1392,11 @@
         transition: transform 0.3s ease;
     }
 
-    .publication-card:hover .publication-teaser img {
+    #publications .publication-card:hover .publication-teaser img {
         transform: scale(1.05);
     }
 
-    .publication-info {
+    #publications .publication-info {
         flex: 1;
         padding: 16px 20px;
         display: flex;
@@ -1404,7 +1404,7 @@
         justify-content: center;
     }
 
-    .publication-header {
+    #publications .publication-header {
         display: flex;
         justify-content: space-between;
         align-items: flex-start;
@@ -1412,7 +1412,7 @@
         gap: 10px;
     }
 
-    .publication-type {
+    #publications .publication-type {
         display: inline-block;
         padding: 3px 10px;
         border-radius: 16px;
@@ -1421,39 +1421,39 @@
         margin-right: 6px;
     }
 
-    .type-conference {
+    #publications .type-conference {
         background: #e8f5e8;
         color: #388e3c;
     }
 
-    .type-journal {
+    #publications .type-journal {
         background: #e3f2fd;
         color: #1976d2;
     }
 
-    .type-workshop {
+    #publications .type-workshop {
         background: #fff3e0;
         color: #f57c00;
     }
 
-    .type-preprint {
+    #publications .type-preprint {
         background: #f3e5f5;
         color: #7b1fa2;
     }
 
-    .award-badge {
+    #publications .award-badge {
         background: #ffebee;
         color: #d32f2f;
     }
 
-    .publication-year {
+    #publications .publication-year {
         color: var(--text-secondary);
         font-size: 13px;
         font-weight: 600;
         white-space: nowrap;
     }
 
-    .publication-title {
+    #publications .publication-title {
         font-size: 16px;
         font-weight: 600;
         color: var(--text-primary);
@@ -1461,26 +1461,26 @@
         line-height: 1.3;
     }
 
-    .publication-authors {
+    #publications .publication-authors {
         color: var(--text-secondary);
         margin-bottom: 4px;
         font-size: 13px;
     }
 
-    .publication-venue {
+    #publications .publication-venue {
         color: var(--text-secondary);
         margin-bottom: 10px;
         font-size: 13px;
         font-style: italic;
     }
 
-    .publication-actions {
+    #publications .publication-actions {
         display: flex;
         gap: 8px;
         flex-wrap: wrap;
     }
 
-    .action-btn {
+    #publications .action-btn {
         display: flex;
         align-items: center;
         gap: 4px;
@@ -1495,32 +1495,32 @@
         background: var(--bg-secondary);
     }
 
-    .action-btn:hover {
+    #publications .action-btn:hover {
         background: var(--bg-card);
         border-color: var(--accent-primary);
         color: var(--accent-primary);
     }
 
-    .action-btn svg {
+    #publications .action-btn svg {
         width: 13px;
         height: 13px;
     }
 
     @media (max-width: 900px) {
-        .publication-card {
+        #publications .publication-card {
             flex-direction: column;
         }
 
-        .publication-teaser {
+        #publications .publication-teaser {
             width: 100%;
             height: 200px;
         }
 
-        .publication-info {
+        #publications .publication-info {
             padding: 20px;
         }
 
-        .publication-header {
+        #publications .publication-header {
             flex-direction: column;
             gap: 8px;
         }

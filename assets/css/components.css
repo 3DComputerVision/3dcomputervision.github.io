@@ -95,27 +95,104 @@
     align-items: center;
 }
 
+/* Opening Cards */
+.opening-card {
+    background: var(--bg-card);
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+    padding: 25px;
+    margin-bottom: 25px;
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow-sm);
+}
+
+.opening-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--accent-primary);
+}
+
+.opening-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 16px;
+    margin-bottom: 15px;
+}
+
+.opening-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.opening-type {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.opening-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--text-secondary);
+    font-size: 14px;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.opening-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 12px;
+    line-height: 1.4;
+}
+
+.opening-detail {
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.opening-description {
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid var(--border-color);
+}
+
 /* Position type badges */
+.opening-type.type-phd,
 .publication-type.type-phd {
     background-color: #9c27b0;
     color: white;
 }
 
+.opening-type.type-mtech,
 .publication-type.type-mtech {
     background-color: #2196f3;
     color: white;
 }
 
+.opening-type.type-btech,
 .publication-type.type-btech {
     background-color: #d2198b;
     color: white;
 }
 
+.opening-type.type-intern,
 .publication-type.type-intern {
     background-color: #ff9800;
     color: white;
 }
 
+.opening-type.type-postdoc,
 .publication-type.type-postdoc {
     background-color: #4caf50;
     color: white;

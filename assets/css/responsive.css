@@ -107,41 +107,51 @@
     }
 
     /* Publications Page - Mobile */
-    .publication-card {
+    #publications .publication-card {
         flex-direction: column;
         margin-bottom: 20px;
     }
 
-    .publication-teaser {
+    #publications .publication-teaser {
         width: 100%;
         height: 200px;
         margin: 0;
         border-radius: 8px 8px 0 0;
     }
 
-    .publication-info {
+    #publications .publication-info {
         padding: 20px;
     }
 
-    .publication-header {
+    #publications .publication-header {
         flex-direction: column;
         align-items: flex-start;
         gap: 8px;
     }
 
-    .publication-title {
+    #publications .publication-title {
         font-size: 18px;
     }
 
-    .publication-actions {
+    #publications .publication-actions {
         flex-wrap: wrap;
         gap: 8px;
     }
 
-    .action-btn {
+    #publications .action-btn {
         flex: 1 1 auto;
         min-width: 80px;
         justify-content: center;
+    }
+
+    /* Openings Page - Mobile */
+    .opening-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .opening-meta {
+        white-space: normal;
     }
 
     /* Contact Page - Mobile */
@@ -286,13 +296,13 @@
 
 /* Tablet adjustments */
 @media (max-width: 1024px) and (min-width: 769px) {
-    /* Publications Page - Mobile */
-    .publication-card {
+    /* Publications Page - Tablet */
+    #publications .publication-card {
         flex-direction: column;
         margin-bottom: 20px;
     }
 
-    .publication-teaser {
+    #publications .publication-teaser {
         width: 100%;
         height: 200px;
         margin: 0;
@@ -301,7 +311,7 @@
         padding: 12px;
     }
 
-    .publication-teaser img {
+    #publications .publication-teaser img {
         max-width: 100%;
         max-height: 100%;
         width: auto;
@@ -309,26 +319,26 @@
         object-fit: contain;
     }
 
-    .publication-info {
+    #publications .publication-info {
         padding: 20px;
     }
 
-    .publication-header {
+    #publications .publication-header {
         flex-direction: column;
         align-items: flex-start;
         gap: 8px;
     }
 
-    .publication-title {
+    #publications .publication-title {
         font-size: 18px;
     }
 
-    .publication-actions {
+    #publications .publication-actions {
         flex-wrap: wrap;
         gap: 8px;
     }
 
-    .action-btn {
+    #publications .action-btn {
         flex: 1 1 auto;
         min-width: 80px;
         justify-content: center;
