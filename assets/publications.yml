@@ -1,6 +1,6 @@
 featured:
   - name: '∂∞-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids'
-    url: 'https://4dqv.mpi-inf.mpg.de/DInf-Grid/'
+    url: '/assets/pdfs/∂∞-Grid.pdf'
     authors: 'Navami Kairanda, Shanthika Naik, Marc Habermann, Avinash Sharma, Christian Theobalt, Vladislav Golyanik'
     conference: 'International Conference on Learning Representations (ICLR)'
     year: '2026'
