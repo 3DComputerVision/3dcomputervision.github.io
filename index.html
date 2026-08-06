@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -202,6 +202,14 @@
                         <div class="news-content" style="max-height: 300px; overflow-y: auto; padding-right: 10px;">
                             <div class="news-item news-highlight">
                                 <div class="news-meta">
+                                    <span class="news-category">Lab News</span>
+                                    <span class="news-date">August 2026</span>
+                                </div>
+                                <h3 class="news-title">3DVisLab moves to IIT Bombay</h3>
+                                <p class="news-desc">Dr. Avinash Sharma has joined the Department of Computer Science and Engineering at Indian Institute of Technology Bombay as an Associate Professor. The lab will continue its research in 3D Computer Vision, Graphics, and related areas from its new home at IIT Bombay.</p>
+                            </div>
+                            <div class="news-item news-highlight">
+                                <div class="news-meta">
                                     <span class="news-category">Conference</span>
                                     <span class="news-date">July 2026</span>
                                 </div>
@@ -326,7 +334,7 @@
                 </div>
                 <div class="research-agenda">
                     <p class="research-overview">
-                        This is a research group led by <a href="components/profile/avinash.html" style="color: var(--accent-primary); text-decoration: none;">Dr Avinash Sharma</a>, who has recently moved to <a href="https://cse.iitj.ac.in/" target="_blank" style="color: var(--accent-primary); text-decoration: none;">Computer Science & Engineering department, IIT Jodhpur</a> as an associate professor while continuing his affiliation with <a href="https://cvit.iiit.ac.in/" target="_blank" style="color: var(--accent-primary); text-decoration: none;">Centre for Visual Information Technology (CVIT), IIIT Hyderabad</a>. We primarily work on the computer vision and machine learning problems with a focus on 3D scene understanding and reconstruction. Specifically, we deal with problems where human body is reconstructed from 2D images and analysed in 3D, generation & analysis of 3D terrains, registration of point clouds of indoor scenes captured from commodity sensors as well as large outdoor scenes captured from LIDAR scanners. Students part of our group have been honored as recipients of prestigious fellowships from Google, Tata Consultancy Services (TCS), and Qualcomm.
+                        This is a research group led by <a href="components/profile/avinash.html" style="color: var(--accent-primary); text-decoration: none;">Dr Avinash Sharma</a>, who has recently moved to <a href="https://cse.iitb.ac.in/" target="_blank" style="color: var(--accent-primary); text-decoration: none;">Department of Computer Science & Engineering, IIT Bombay</a> as an associate professor while continuing his affiliation with <a href="https://cvit.iiit.ac.in/" target="_blank" style="color: var(--accent-primary); text-decoration: none;">Centre for Visual Information Technology (CVIT), IIIT Hyderabad</a>. We primarily work on the computer vision and machine learning problems with a focus on 3D scene understanding and reconstruction. Specifically, we deal with problems where human body is reconstructed from 2D images and analysed in 3D, generation & analysis of 3D terrains, registration of point clouds of indoor scenes captured from commodity sensors as well as large outdoor scenes captured from LIDAR scanners. Students part of our group have been honored as recipients of prestigious fellowships from Google, Tata Consultancy Services (TCS), and Qualcomm.
                     </p>
                     
                     <ul class="research-list">
@@ -382,9 +390,9 @@
                             <img src="/assets/images/3dvislab.png" alt="3DVis Group Logo">
                         </div>
                     </div>
-                    <a href="https://www.iitj.ac.in" target="_blank" class="footer-logo-item footer-logo-link">
+                    <a href="https://www.iitb.ac.in" target="_blank" class="footer-logo-item footer-logo-link">
                         <div class="footer-logo-badge">
-                            <img src="/assets/images/iitj-logo-orange.png" alt="IIT Jodhpur Logo">
+                            <img src="/assets/images/iitb-logo.jpg" alt="IIT Bombay Logo">
                         </div>
                     </a>
                     <a href="https://cvit.iiit.ac.in/" target="_blank" class="footer-logo-item footer-logo-link">
@@ -395,7 +403,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <p>© 2025 3DVisLab, Department of Computer Science & Engineering, Indian Institute of Technology Jodhpur. All rights reserved.</p>
+                <p>© 2026 3DVisLab, Department of Computer Science & Engineering, Indian Institute of Technology Bombay. All rights reserved.</p>
             </div>
         </div>
     </footer>
@@ -405,8 +413,8 @@
         function initializeTheme() {
             let savedTheme = localStorage.getItem('theme');
             if (!savedTheme) {
-                savedTheme = 'dark';
-                localStorage.setItem('theme', 'dark');
+                savedTheme = 'light';
+                localStorage.setItem('theme', 'light');
             }
             document.documentElement.setAttribute('data-theme', savedTheme);
             document.getElementById('theme-icon').textContent = savedTheme === 'dark' ? '☀️' : '🌙';
